@@ -37,6 +37,104 @@ main {
     position: relative;
 }
 
+/****************************** Cores *****/
+
+.corRobo{
+    position: relative;
+    top: 100px;
+}
+
+.cor {
+    margin-block: auto;
+    font-weight: 500;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding: 0.2em 1em;
+    border: 3px solid var(--main-branco);
+    background: var(--main-branco);
+    clip-path: polygon(100% 0, 100% calc(100% - 30px), calc(100% - 30px) 100%, 0 100%, 0 0);
+}
+
+.azul {
+    line-height: 44px;
+    border-radius: 50%;
+    color: var(--main-cinza);
+    font-size: 10px;
+    background: blue;
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.amarelo {
+    line-height: 44px;
+    border-radius: 50%;
+    color: black; 
+    font-size: 10px;
+    background: rgb(255, 221, 0);
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.branco {
+    line-height: 44px;
+    border-radius: 50%;
+    color: black;
+    font-size: 10px;
+    background: white;
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.preto {
+    line-height: 44px;
+    border-radius: 50%;
+    color: var(--main-cinza);
+    font-size: 10px;
+    background: var(--main-preto);
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.rosa {
+    line-height: 44px;
+    border-radius: 50%;
+    color: black;
+    font-size: 10px;
+    background: rgb(244, 103, 164);
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.vermelho {
+    line-height: 44px;
+    border-radius: 50%;
+    color: black;
+    font-size: 10px;
+    background: rgb(233, 44, 44);
+    border: 3px solid var(--main-cinza);
+    width: 54px;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+/*********************************/
+
 .robo {
     height: 110%;
     z-index: 1;
