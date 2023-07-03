@@ -9,6 +9,11 @@
 
 ![Robotron2000.](https://raw.githubusercontent.com/DaissaMatias/Robotron-2000/main/img/Robotron%202000.PNG "Robotron 2000 - Pronto pra batalha")
 
+# Atualização ⚙
+#### Nova funcionalidade: agora, é possível escolher a cor do Robotron. 
+
+![Imagem atualizada com cores do Robotron](https://raw.githubusercontent.com/DaissaMatias/Robotron-2000/e6aae739947202f4dbbbee35ec3328740106c0bc/img/imagem_2023-07-03_144247821.png "Imagem atualizada do Robotron.")
+
 ## ✔️ Ferramentas utilizadas.
 
 * HTML <img width="25" height="25" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
